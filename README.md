@@ -1,12 +1,12 @@
 # Meethub - Simple video conferencing webApp
 
 <p align="center"> 
-  <h3 align="center">Google Meet Clone</h3>
+  <h3 align="center">Meethub</h3>
 
   <p align="center">
-    Google Meet Clone!
+    Meethub
     <br />  
-     A Video Conference App Similar to Google Meet
+     A Video Conference App 
     <br />
   </p>
 </p>
@@ -17,7 +17,6 @@
 
 - [Full Tutorial](#tutorial)
 - [How To Run](#usage)
-- [ScreenShots](#demo)
 - [Contact](#contact)
 
 <!-- tutorial -->
