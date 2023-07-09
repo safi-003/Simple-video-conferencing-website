@@ -11,13 +11,6 @@
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Full Tutorial](#tutorial)
-- [How To Run](#usage)
-- [Contact](#contact)
 
 <!-- tutorial -->
 
